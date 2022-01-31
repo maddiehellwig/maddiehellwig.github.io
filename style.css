@@ -1,0 +1,23 @@
+body{
+  background-color:lavenderblush;
+}
+h1 {
+    color:blue;
+    font-family:helvetica;background-color: aliceblue;
+    border: 5px solid forestgreen;
+    padding: 25px}
+p {
+  color:orchid;}
+#highlight {
+    color: brown;
+    background-color: lightpink;
+    border: 2px dotted black;}
+.top {
+  background-color: cornsilk;}
+h2 {
+  color:indigo;background-color:lavender;}
+img {
+  border: 5px solid darkblue;
+width: 50%;
+height: 50%;
+margin-left:75px;}
